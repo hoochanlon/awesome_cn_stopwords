@@ -1,6 +1,6 @@
 # 中文常用停用词文件集合
 
-中文常用停用词表：复旦、川大、哈工大、百度停用词表等。复旦完整版语料库、搜狗语料库链接: https://pan.baidu.com/s/17AiwMBbvEEgS-xxF9SKtaA 提取码: `1234`
+中文常用停用词表：复旦、川大、哈工大、百度停用词表等。复旦完整版语料库、搜狗语料库链接: 链接：https://pan.baidu.com/s/1cCHsuw8JpUopq1rTGpaucg  提取码: 1234
 
 * 复旦大学停用词表: fdu_stopwords.txt  
 * 四川大学停用词表: scu_stopwords.txt  
