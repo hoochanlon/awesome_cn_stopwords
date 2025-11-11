@@ -2,6 +2,8 @@
 
 中文常用停用词表：复旦、川大、哈工大、百度停用词表等。复旦完整版语料库、搜狗语料库链接: 链接：https://pan.baidu.com/s/1cCHsuw8JpUopq1rTGpaucg  提取码: 1234
 
+<img align="right" src="https://i.ooxx.ooo/i/ZTQ0Z.png" style="width: auto; height: 200px;">
+
 * 复旦大学停用词表: fdu_stopwords.txt  
 * 四川大学停用词表: scu_stopwords.txt  
 * 中文停用词表：cn_stopwords.txt    
