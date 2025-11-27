@@ -16,7 +16,7 @@
 <img src="https://github.com/goto456/stopwords/assets/35732922/b0699b3f-1c62-4d66-87b2-41cfc3057bf0" style="width: 100%; height: auto;" />
 
 
-## 友链
+## 相关链接
 
 * [中文网字计划 - 字图 CDN](https://chinese-font.netlify.app/zh-cn/cdn/)
 * [中文网字计划 - 在线字体分包器](https://chinese-font.netlify.app/zh-cn/online-split/)
