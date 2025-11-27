@@ -20,6 +20,7 @@
 
 * [中文网字计划 - 字图 CDN](https://chinese-font.netlify.app/zh-cn/cdn/)
 * [中文网字计划 - 在线字体分包器](https://chinese-font.netlify.app/zh-cn/online-split/)
+* [zeoseven - 释放字体自由](https://fonts.zeoseven.com/)
 
 ## 延伸阅读
 
