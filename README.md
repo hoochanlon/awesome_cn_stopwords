@@ -21,5 +21,9 @@
 * [中文网字计划 - 字图 CDN](https://chinese-font.netlify.app/zh-cn/cdn/)
 * [中文网字计划 - 在线字体分包器](https://chinese-font.netlify.app/zh-cn/online-split/)
 
+## 延伸阅读
+
+[清华大学新闻与传播学院 - Global Media Journal 全球传媒学刊(XIV)](https://www.tsjc.tsinghua.edu.cn/__local/5/F9/B7/D90744BCB4EF7545D142AF10ADC_2984ADC2_2723A2.pdf?e=.pdf)
+
 [^文本聚类]:
        《中文文本聚类常用停用词表对比研究》，2017，官 琴、邓三鸿、王昊，《数据分析与知识发现》2017年第3期，76页
